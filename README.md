@@ -1,4 +1,4 @@
-# Adds bundles (with loot!) to the Wandering Trader's offers for Minecraft 1.18. This is an edited version of the Wandering Bundler datapack developed for A13XFPS and Weastside Boss for their YouTube series Tides of Treasure, which you can watch here: https://youtube.com/playlist?list=PLWzZMhLdD2lsPoNCHYTDSYt-lnSIQj0zj
+Adds bundles (with loot!) to the Wandering Trader's offers for Minecraft 1.18. This is an edited version of the Wandering Bundler datapack developed for A13XFPS and Weastside Boss for their YouTube series Tides of Treasure, which you can watch here: https://youtube.com/playlist?list=PLWzZMhLdD2lsPoNCHYTDSYt-lnSIQj0zj
 
 The bundles are filled at random from with all of the miniblocks offered by the Vanilla Tweaks miniblocks datapack. The difference between this and Vanilla Tweaks' datapack is that these are randomized in a bundle instead of sold individually. It is not recommended that you use this and the Vanilla Tweaks pack in the same world.
 
